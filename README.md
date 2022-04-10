@@ -1,5 +1,5 @@
 # COVID19-Data-Analysis
-by Shreyansh Jain, student from Birla Institute Of Technology, Mesra<br/>
+by Shreyansh Jain, student from Birla Institute of Technology, Mesra<br/>
 This is my project on machine learning. Languages included : Python<br/>
 # Goal : 
 Covid19 Data Analysis Using Python
