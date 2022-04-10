@@ -5,7 +5,7 @@ This is my project on machine learning. Languages included : Python
 # Problem statement :
 Health Research Organization wants to analyze the effects that pandemic has caused to the world. They have given you the Covid 19 dataset and World happiness report database. They gave you the dataset to work on and you decided to use machine learning to analyze the data. Create a analysis of what effects Covid-19 has on the world.
 # This project has following parts  :
-1.Importing Covid19 dataset. 
+1.Importing Covid19 dataset. <br/>
 2.Finding a good Measure. 
 3.Importing and preparing World happiness report dataset. 
 4.Merge two datasets and find correlations among your data.
